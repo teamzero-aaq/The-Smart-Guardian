@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Smart Guardian</string>
+    <string name="choose_status"> Choose</string>
+    <string name="message">Status of your child</string>
+    <string-array name="status">
+        <item>Yes </item>
+        <item> No </item>
+    </string-array>
+</resources>

@@ -1,0 +1,65 @@
+{
+  "Student": {
+  
+    "1821007": {
+      "name": "abc",
+      "standard": "2",
+      "divison": "a",
+	  "status": "P",
+      "parent_phone": "1234567890"
+    },
+	
+    "1821008": {
+      "name": "abc",
+      "standard": "2",
+      "divison": "a",
+	  "status": "P",
+      "parent_phone": "9874561230"
+    }
+  },
+  
+  "Parent": {
+  
+   "1234567890": {
+    "name": "test",
+    "email": "abc@gmail.com",
+    "password": "xyz"
+  },
+  
+  "9874561230": {
+    "name": "test",
+    "email": "xyz@gmail.com",
+    "password": "xyz"
+  }
+  },
+    
+  "Dataset": {
+    "1821007": {
+      "img":["img1","img2","img3"]
+    }
+  },
+"Message": {
+    "23032018": {
+	  "id":"1821007",
+      "date": "23-Mar",
+      "photo": "www.google.com",
+      "message": "Your son is in bus"
+    }
+
+  },
+ 
+    "Admin": {
+      "name": "admin",
+      "password": "123abc"
+    },
+
+	"total_student":"10"
+	
+	
+  }
+  
+ 
+ 
+  
+  
+
