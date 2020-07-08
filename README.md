@@ -1,4 +1,4 @@
-# TheSmartGuardian_merge
+# TheSmartGuardian
 
 # See About.pdf for details
 
